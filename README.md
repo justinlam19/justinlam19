@@ -1,3 +1,3 @@
 # justinlam19
 
-CS student new to coding
+First year computer science student
