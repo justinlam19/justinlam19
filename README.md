@@ -1,3 +1,3 @@
 # justinlam19
 
-First year computer science student
+Second year computer science student
