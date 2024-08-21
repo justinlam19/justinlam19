@@ -1,3 +1,3 @@
 # justinlam19
 
-Second year computer science student
+Masters student in CS
